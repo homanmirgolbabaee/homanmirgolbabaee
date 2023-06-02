@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://github.com/homanmirgolbabaee">
-     ![](https://komarev.com/ghpvc/?username=homanmirgolbabaee)
+      ![](<img src="https://komarev.com/ghpvc/?username=homanmirgolbabaee)"</img>
   </a>
 </p>
 <!--
