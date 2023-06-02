@@ -36,8 +36,9 @@
 [![IOS](https://img.shields.io/badge/ios-black?style=for-the-badge&logo=ios)](https://github.com/homanmirgolbabaee)
 [![IOS](https://img.shields.io/badge/android-black?style=for-the-badge&logo=android)](https://github.com/homanmirgolbabaee)
 
-<h2>GitHub Stats 🤔 </h2>
+
 <p>
+    <p1>Github Stats 🤔 </p1>
   <img src="https://github-readme-stats.vercel.app/api?username=homanmirgolbabaee&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <!--
