@@ -49,12 +49,6 @@
 </p>
 </details>
 
-<p align="center">
-  <a href="https://github.com/homanmirgolbabaee">
-      <p ![](href="https://komarev.com/ghpvc/?username=homanmirgolbabaee)"
- </p>
-  </a>
-</p>
 <!--
 
 - 🔭 I’m currently working on ...
