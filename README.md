@@ -1,5 +1,4 @@
 <h1 align="center">I'm Homan <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
-
 <p align="center">
     <a href="https://www.linkedin.com/in/homan-mirgolbabaee">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -8,13 +7,11 @@
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
 </p>
-
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/homanmirgolbabaee)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/homanmirgolbabaee)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/homanmirgolbabaee)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/wervlad)
-
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/homanmirgolbabaee)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/homanmirgolbabaee)
@@ -25,9 +22,8 @@
 
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/homanmirgolbabaee)
-[![Flutter](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/homanmirgolbabaee)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/homanmirgolbabaee)
-[![Dart](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/homanmirgolbabaee)
+[![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/homanmirgolbabaee)
+[![Dart](https://img.shields.io/badge/dart?style=for-the-badge&logo=html5)](https://hub.docker.com/u/homanmirgolbabaee)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
