@@ -27,9 +27,10 @@
 [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://hub.docker.com/u/homanmirgolbabaee)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
-[![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/wervlad)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/homanmirgolbabaee)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/homanmirgolbabaee)
+[![IOS](https://img.shields.io/badge/ios-black?style=for-the-badge&logo=ios)](https://github.com/homanmirgolbabaee)
+[![IOS](https://img.shields.io/badge/android-black?style=for-the-badge&logo=android)](https://github.com/homanmirgolbabaee)
 
 <details>
 <p align="center">
