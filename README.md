@@ -53,15 +53,15 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=homanmirgolbabaee&theme=transparent" alt="GitHub Stats"/>
     </a>
   </p>
-    <p align="right">
+    <p align="center">
     <!-- GitHub Stats Card -->
-    <a href="https://github.com/homanmirgolbabaee">
-      <img src="https://github-readme-stats.vercel.app/api?username=homanmirgolbabaee&show_icons=true&theme=radical" alt="GitHub Stats"/>
+          <a href="https://github.com/homanmirgolbabaee">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=homanmirgolbabaee&langs_count=5&theme=radical" alt="Most Used Languages"/>
     </a>
     <br><br>
     <!-- Most Used Languages -->
     <a href="https://github.com/homanmirgolbabaee">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=homanmirgolbabaee&langs_count=5&theme=radical" alt="Most Used Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=homanmirgolbabaee&show_icons=true&theme=radical" alt="GitHub Stats"/>
     </a>
   </p>
 <details>
