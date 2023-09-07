@@ -53,4 +53,31 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=homanmirgolbabaee&theme=transparent" alt="GitHub Stats"/>
     </a>
   </p>
+---
+
+<details>
+  <summary>📈 Enhanced GitHub Stats</summary>
+  <p align="center">
+    <a href="https://github.com/homanmirgolbabaee">
+      <!-- Profile View Count -->
+      <img src="https://komarev.com/ghpvc/?username=homanmirgolbabaee&color=blueviolet" alt="Profile View Count"/>
+      <!-- Followers -->
+      <img src="https://img.shields.io/github/followers/homanmirgolbabaee?label=followers&style=social" alt="Followers"/>
+      <!-- Following -->
+      <img src="https://img.shields.io/github/following/homanmirgolbabaee?label=following&style=social" alt="Following"/>
+      <!-- Stars -->
+      <img src="https://img.shields.io/github/stars/homanmirgolbabaee?label=Stars&style=social" alt="Stars"/>
+    </a>
+    <br><br>
+    <!-- GitHub Stats Card -->
+    <a href="https://github.com/homanmirgolbabaee">
+      <img src="https://github-readme-stats.vercel.app/api?username=homanmirgolbabaee&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    </a>
+    <br><br>
+    <!-- Most Used Languages -->
+    <a href="https://github.com/homanmirgolbabaee">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=homanmirgolbabaee&langs_count=5&theme=radical" alt="Most Used Languages"/>
+    </a>
+  </p>
+</details>
 </details>
