@@ -53,11 +53,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=homanmirgolbabaee&theme=transparent" alt="GitHub Stats"/>
     </a>
   </p>
----
-
-<details>
-  <summary>📈 Enhanced GitHub Stats</summary>
-  <p align="center">
+    <p align="center">
     <a href="https://github.com/homanmirgolbabaee">
       <!-- Profile View Count -->
       <img src="https://komarev.com/ghpvc/?username=homanmirgolbabaee&color=blueviolet" alt="Profile View Count"/>
@@ -79,5 +75,4 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=homanmirgolbabaee&langs_count=5&theme=radical" alt="Most Used Languages"/>
     </a>
   </p>
-</details>
-</details>
+<details>
