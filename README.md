@@ -20,6 +20,7 @@
 ![C](https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
 ### **🤖Artificial Intelligence / Machine Learning / Data Science**
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/🦜langchain-0B293F?style=flat-square&logo=llamaindex&logoColor=white)
@@ -32,7 +33,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-1967AA?style=flat-square&logo=matplotlib&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=flat-square&logo=keras&logoColor=white)
-
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 
 ### **☁️Development Frameworks & Cloud**
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
