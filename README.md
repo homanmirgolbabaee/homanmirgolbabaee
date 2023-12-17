@@ -25,7 +25,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/🦜langchain-0B293F?style=flat-square&logo=llamaindex&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦙llamaindex-090D38?style=flat-square&logo=llamaindex&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-090D38?style=flat-square&logo=quasar&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-090D38?style=flat-square&logo=⚛&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -47,6 +47,7 @@
 ![Web2Py](https://img.shields.io/badge/web2py-000000?style=flat-square&logo=web2py&logoColor=white)
 ![PyGame](https://img.shields.io/badge/pygame-000000?style=flat-square&logo=pygame&logoColor=white)
 
+### **
 ### **🖥️Operating Systems & Robotics**
 
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
