@@ -26,7 +26,7 @@
 ![LlamaIndex](https://img.shields.io/badge/🦜langchain-0B293F?style=flat-square&logo=llamaindex&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦙llamaindex-090D38?style=flat-square&logo=llamaindex&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-090D38?style=flat-square&logo=quasar&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere-F9CB9C?style=for-the-badge&logo=React_Query&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere-F9CB9C?style=flat-square&logo=React_Query&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
