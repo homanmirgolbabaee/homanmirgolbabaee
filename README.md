@@ -32,7 +32,7 @@
 
 
 ### **Development Frameworks**
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white)
