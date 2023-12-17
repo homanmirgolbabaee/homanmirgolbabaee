@@ -64,6 +64,9 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=homanmirgolbabaee&theme=transparent" alt="GitHub Stats"/>
     </a>
   </p>
+  <p2 align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=homanmirgolbabaee&theme=dracula&hide_border=false"/>
+  </p2>
     <p align="center">
     <!-- GitHub Stats Card -->
           <a href="https://github.com/homanmirgolbabaee">
