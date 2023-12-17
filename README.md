@@ -13,14 +13,14 @@
 
 ## 🛠️ Technologies & Tools
 
-### **Programming Languages**
+### **Programming Languages 🔤**
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-### ** Artificial Intelligence / Machine Learning / Data Science**
+### ** Artificial Intelligence / Machine Learning / Data Science 🤖 **
 ![LlamaIndex](https://img.shields.io/badge/🦙llamaindex-0B293F?style=flat-square&logo=llamaindex&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -31,7 +31,7 @@
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=flat-square&logo=keras&logoColor=white)
 
 
-### **Development Frameworks**
+### **Development Frameworks & Cloud ☁️ **
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
