@@ -47,7 +47,13 @@
 ![Web2Py](https://img.shields.io/badge/web2py-000000?style=flat-square&logo=web2py&logoColor=white)
 ![PyGame](https://img.shields.io/badge/pygame-000000?style=flat-square&logo=pygame&logoColor=white)
 
-### **
+### **🗂️Databases 
+![Weaviate](https://img.shields.io/badge/🦾Weaviate-7AD253?style=flat-square&logo=supabase&logoColor=white)
+![Zilliz](
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQl]
+![Sqllite3]
+![MangoDB]
 ### **🖥️Operating Systems & Robotics**
 
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
