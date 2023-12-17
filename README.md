@@ -21,7 +21,7 @@
 ![Bash](https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### **Machine Learning / Data Science**
-![LlamaIndex](https://img.shields.io/badge/llamaindex-FF0000?style=flat-square&logo=llamaindex&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/llamaindex🦙-FF0000?style=flat-square&logo=llamaindex&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
