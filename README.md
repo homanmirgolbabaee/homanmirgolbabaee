@@ -35,16 +35,18 @@
 ### **☁️Development Frameworks & Cloud**
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Web2Py](https://img.shields.io/badge/web2py-000000?style=flat-square&logo=web2py&logoColor=white)
 ![PyGame](https://img.shields.io/badge/pygame-000000?style=flat-square&logo=pygame&logoColor=white)
 
-### **🖥️Operating Systems**
-![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white) 
+### **🖥️Operating Systems & Robotics**
+
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![iOS](https://img.shields.io/badge/ios-000000?style=flat-square&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
