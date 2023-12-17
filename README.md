@@ -49,11 +49,11 @@
 
 ### **🗂️Databases 
 ![Weaviate](https://img.shields.io/badge/Weaviate-7AD253?style=flat-square&logo=supabase&logoColor=white)
-![Zilliz](https://img.shields.io/badge/Zilliz-380953?style=for-the-badge&logo=progate&logoColor=white)
+![Zilliz](https://img.shields.io/badge/Zilliz-380953?style=flat-square&logo=progate&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQl](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Sqllite3](https://img.shields.io/badge/SQLite-07405E??style=flat-square&logo=sqlite&logoColor=white)
-![MangoDB]
+![MangoDB](https://img.shields.io/badge/MongoDB-4EA94B??style=flat-square&logo=mongodb&logoColor=white)
 ### **🖥️Operating Systems & Robotics**
 
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
