@@ -14,7 +14,7 @@
 ## 🛠️ Technologies & Tools
 
 ### **Programming Languages**
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white)
