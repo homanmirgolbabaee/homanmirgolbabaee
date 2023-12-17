@@ -47,7 +47,7 @@
 ![Web2Py](https://img.shields.io/badge/web2py-000000?style=flat-square&logo=web2py&logoColor=white)
 ![PyGame](https://img.shields.io/badge/pygame-000000?style=flat-square&logo=pygame&logoColor=white)
 
-### **🗂️Databases 
+### **🗂️Databases**
 ![Weaviate](https://img.shields.io/badge/Weaviate-7AD253?style=flat-square&logo=supabase&logoColor=white)
 ![Zilliz](https://img.shields.io/badge/Zilliz-380953?style=flat-square&logo=progate&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
