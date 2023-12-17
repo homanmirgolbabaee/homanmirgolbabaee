@@ -19,7 +19,7 @@
 ![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ### **🤖Artificial Intelligence / Machine Learning / Data Science**
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/🦜langchain-0B293F?style=flat-square&logo=llamaindex&logoColor=white)
