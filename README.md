@@ -22,7 +22,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 ### **🤖Artificial Intelligence / Machine Learning / Data Science**
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+
 ![LlamaIndex](https://img.shields.io/badge/🦜langchain-0B293F?style=flat-square&logo=llamaindex&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦙llamaindex-090D38?style=flat-square&logo=llamaindex&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-090D38?style=flat-square&logo=quasar&logoColor=white)
@@ -38,6 +38,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ### **☁️Development Frameworks & Cloud**
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
