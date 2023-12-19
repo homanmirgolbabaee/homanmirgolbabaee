@@ -46,14 +46,14 @@
 ![Django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Next.Js](https://img.shields.io/badge/next%20js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.Js](https://img.shields.io/badge/Next%20js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Web2Py](https://img.shields.io/badge/web2py-000000?style=flat-square&logo=web2py&logoColor=white)
 ![PyGame](https://img.shields.io/badge/pygame-000000?style=flat-square&logo=pygame&logoColor=white)
 
 ### **🗂️Databases**
 ![Weaviate](https://img.shields.io/badge/Weaviate-7AD253?style=flat-square&logo=supabase&logoColor=white)
 ![Zilliz](https://img.shields.io/badge/Zilliz-380953?style=flat-square&logo=progate&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQl](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Sqllite3](https://img.shields.io/badge/SQLite-07405E??style=flat-square&logo=sqlite&logoColor=white)
 ![MangoDB](https://img.shields.io/badge/MongoDB-4EA94B??style=flat-square&logo=mongodb&logoColor=white)
