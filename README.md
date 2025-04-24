@@ -9,8 +9,6 @@
   </a>
 </p>
 
----
-
 <details>
   <summary>📊 GitHub Stats</summary>
   <p align="center">
